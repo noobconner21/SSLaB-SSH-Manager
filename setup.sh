@@ -23,4 +23,5 @@ sleep 2
 #https://github.com/noobconner21/Auto_Install_SSH_Manager/blob/main/etc.zip
 #bash <(curl -Ls https://raw.githubusercontent.com/noobconner21/SSH-Panel/master/sshsetup.sh)
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/noobconner21/SSH-Panel/main/sshsetup.sh; chmod 777 sshsetup.sh;./sshsetup.sh
+#apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/noobconner21/SSH-Panel/main/sshsetup.sh; chmod 777 sshsetup.sh;./sshsetup.sh
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/noobconner21/SSH-Panel/main/sshsetup.sh; chmod 777 sshsetup.sh; bash sshsetup.sh
