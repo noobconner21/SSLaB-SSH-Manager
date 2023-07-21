@@ -257,13 +257,13 @@ cd /etc/Sslablk
 #wget https://github.com/noobconner21/project1/raw/main/etc.zip
 wget https://github.com/noobconner21/SSH-Panel/raw/main/system.zip
 unzip system
-cd /etc/Sslablk/etc
+cd /etc/Sslablk/system
 mv menu /usr/local/bin
 wget -O speedtest-cli https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
 chmod +x ChangeUser.sh
 chmod +x Adduser.sh
 chmod +x Banner.sh
-chmod +x Port.sh
+chmod +x port.sh
 chmod +x DelUser.sh
 chmod +x Userlist.sh
 chmod +x RemoveScript.sh
