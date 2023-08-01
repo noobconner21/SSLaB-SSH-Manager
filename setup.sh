@@ -25,4 +25,4 @@ sleep 2
 mkdir /etc/Sslablk
 cd /etc/Sslablk
 #apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/noobconner21/SSH-Panel/main/sshsetup.sh; chmod 777 sshsetup.sh;./sshsetup.sh
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/noobconner21/SSH-Panel/main/sshsetup.sh; chmod 777 sshsetup.sh; bash sshsetup.sh
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/noobconner21/SSH-Panel/main/install.sh; chmod 777 install.sh; bash install.sh
