@@ -20,9 +20,6 @@ echo "Download Main Script. Please Wait...."
 sleep 5
 echo "Done .."
 sleep 2
-#https://github.com/noobconner21/Auto_Install_SSH_Manager/blob/main/etc.zip
-#bash <(curl -Ls https://raw.githubusercontent.com/noobconner21/SSH-Panel/master/sshsetup.sh)
 mkdir /etc/Sslablk
 cd /etc/Sslablk
-#apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/noobconner21/SSH-Panel/main/sshsetup.sh; chmod 777 sshsetup.sh;./sshsetup.sh
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/noobconner21/SSH-Panel/main/install.sh; chmod 777 install.sh; bash install.sh
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/noobconner21/SSH-Panel/main/install.sh; chmod 777 install.sh; bash install.
