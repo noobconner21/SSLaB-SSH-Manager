@@ -22,8 +22,9 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/no
 
 # Credits
 
-• @BlurryFlurry For Help me out
-• PandaEhi Team Dito / Panda to giving me this idea
+*@BlurryFlurry For Help me out
+
+*PandaEhi Team Dito / Panda to giving me this idea
 
 #  License
 
