@@ -268,6 +268,7 @@ chmod +x DelUser.sh
 chmod +x Userlist.sh
 chmod +x RemoveScript.sh
 chmod +x speedtest-cli
+chmod +x torrent.sh
 cd /usr/local/bin
 chmod +x menu
 cd /etc/Sslablk
