@@ -20,11 +20,9 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/no
 * We recommend Debian 9 Server x86_64 / Ubuntu 18.04 Server x86_64
 
 
-# Credits
-
-*@BlurryFlurry For Help me out
-
-*PandaEhi Team Dito / Panda to giving me this idea
+# Requirements
+* ryanc aka @BlurryFlurry for help me out
+* PandaEhi Team DITO & PANDA to giving this idea
 
 #  License
 
