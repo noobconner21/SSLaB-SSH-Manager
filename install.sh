@@ -243,6 +243,7 @@ echo -e "\e[96mRestarting services. Please wait...\e[0m"
 /etc/init.d/stunnel4 restart
 service squid restart
 service ssh restart
+systemctl start stunnel4
 
 # add fake shell paths to prevent interractive shell login
 echo '/bin/false' >>/etc/shells
@@ -269,6 +270,7 @@ chmod +x DelUser.sh
 chmod +x Userlist.sh
 chmod +x RemoveScript.sh
 chmod +x speedtest-cli
+chmod +x torrent.sh
 cd /usr/local/bin
 chmod +x menu
 cd /etc/Sslablk
