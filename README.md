@@ -1,12 +1,16 @@
-<center><h1>- 𝗦𝗦𝗟𝗮𝗕 𝗦𝗦𝗛 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 -<b> </h1></center>
+# SSLaB SSH Manager
 
 By Project SSLab LK™
 
-<a href="https://ibb.co/F4YkMNh"><img src="https://i.ibb.co/zV2WYjm/FB-IMG-1689345897375.jpg" alt="FB-IMG-1689345897375" border="0"></a>
 
-An unencrypted version.. Feel Free to modified...
 
-* UPDATE 01.August.2023   2.2.0 Version
+
+* UPDATE 01.August.2023 v2.2.0
+
+* UPDATE 03.August.2023 v2.3.0
+
+    ~ Fix SSH Not Connected Problem
+    ~ Add Torrent Block Option
 
 # Install
 
@@ -23,8 +27,9 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/no
 
 
 # Credits
-* ryanc aka @BlurryFlurry for help me out
-* PandaEhi Team DITO & PANDA to giving this idea
+
+• @BlurryFlurry For Help me out
+• PandaEhi Team Dito / Panda to giving me this idea
 
 #  License
 
