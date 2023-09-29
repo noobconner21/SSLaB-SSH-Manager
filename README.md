@@ -12,6 +12,11 @@ By Project SSLab LK™
     • Fix SSH Not Connected Problem
     • Add Torrent Block Option
 
+* UPDATE 29.September.2023 v2.3.5
+
+    • Add Website blocker
+    • Fixed some bugs
+
 # Install
 
 01. Install Script
