@@ -9,13 +9,13 @@ By Project SSLab LK™
 
 * UPDATE 03.August.2023 v2.3.0
 
-    • Fix SSH Not Connected Problem
-    • Add Torrent Block Option
+   Fix SSH Not Connected Problem
+   Add Torrent Block Option
 
 * UPDATE 29.September.2023 v2.3.5
 
-    • Add Website blocker
-    • Fixed some bugs
+   Add Website blocker
+   Fixed some bugs
 
 # Install
 
